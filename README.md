@@ -5,4 +5,12 @@ Portfolio of Data Analytics Projects, Skills and Abilities
 
 ### Overview
 
-Description Test
+- Prior to beginning the project, the AIMS grid was considered to identify the purpose, stakeholders, end result and success criteria within the scenario
+- Data was cleansed of inaccuracies and duplicates in MySQL
+- Summary Point 3
+- Summary Point 4
+- Summary Point 5
+
+Image 1, AIMS grid
+
+
