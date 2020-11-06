@@ -1,7 +1,7 @@
 # SDejean_Portfolio
-[Portfolio of Data Analytics Projects, Skills and Abilities] (https://dejean97.github.io/Project-1-Sales-Insight-Analytics/)
+Portfolio of Data Analytics Projects, Skills and Abilities 
 
-## Project 1: Sales Insight Analytics (MySQL & Tableau)
+## [Project 1: Sales Insight Analytics (MySQL & Tableau)] (https://dejean97.github.io/Project-1-Sales-Insight-Analytics/)
 
 ### Overview
 
