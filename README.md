@@ -13,6 +13,6 @@ Portfolio of Data Analytics Projects, Skills and Abilities
 ### Potential next steps
 - Source customer profiling data to complete segmentation and develop sales strategy
 
-![](/SDejean_Portfolio/blob/main/Images/Sales%20Insights%20Dashboard.png)
+![](/blob/main/Images/Sales%20Insights%20Dashboard.png)
 
 
