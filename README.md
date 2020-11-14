@@ -11,9 +11,8 @@ Portfolio of Data Analytics Projects, Skills and Abilities
 
 
 ### Potential next steps
-- Identify production costs to establish profitability trends 
 - Source customer profiling data to complete segmentation and develop sales strategy
 
-Image 1
+![] (https://github.com/Dejean97/SDejean_Portfolio/blob/main/Images/Sales%20Insights%20Dashboard.png)
 
 
