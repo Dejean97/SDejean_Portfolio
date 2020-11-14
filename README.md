@@ -7,12 +7,10 @@ Portfolio of Data Analytics Projects, Skills and Abilities
 
 - Data was cleansed of inaccuracies and duplicates in MySQL
 - Cleansing Process included: CREATE TABLE, ALTER TABLE, INNER JOIN, UPDATE, SET
-- Summary Point 4
+- Summary Point...
+- Insight Summary...
+- Next Steps Summary...
 
-
-### Potential next steps
-- Source customer profiling data to complete segmentation and develop sales strategy
 
 ![](Images/Sales%20Insights%20Dashboard.png)
-
 
