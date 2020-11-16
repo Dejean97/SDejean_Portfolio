@@ -7,9 +7,9 @@ Portfolio of Data Analytics Projects, Skills and Abilities
 
 - Data was cleansed of inaccuracies and duplicates in MySQL
 - Cleansing Process included: CREATE TABLE, ALTER TABLE, INNER JOIN, UPDATE, SET
-- Summary Point...
-- Insight Summary...
-- Next Steps Summary...
+- MySQL database was then connected to Tableau for Visualisation shown below
+- Sales and profit trending down from 2018, questionable viability of markets in South and few notable products not generating profit
+- Next steps could be gathering CRM data for segmentation and investigating long term sustainability in the South
 
 
 ![](Images/Sales%20Insights%20Dashboard.png)
