@@ -16,7 +16,7 @@ The purpose of this project was to practice basic data cleaning and presentation
 
 ![](Images/Sales%20Insights%20Dashboard.png)
 
-## [Project 2: Data Management, Customer Segmentation & Sales Strategy Development (MySQL, Tableau & Powerpoint)]()
+## [Project 2: Data Management, Customer Segmentation & Sales Strategy Development (MySQL, Tableau & Powerpoint)](https://dejean97.github.io/Project-2-Data-Insights-and-Strategy/)
 
 ### Overview
 
